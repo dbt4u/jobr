@@ -1,4 +1,5 @@
 # jobr
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14999364.svg)](https://doi.org/10.5281/zenodo.14999364)
 
 
 *This README is available in 👉 Deutsch & 👉 English (below).*
