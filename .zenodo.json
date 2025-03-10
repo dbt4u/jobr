@@ -2,7 +2,7 @@
     "title": "Job Re:Search",
     "upload_type": "publication",
     "publication_type": "workingpaper",
-    "description": "Job Re:Search is a bilingual working paper serving as the foundation for further research and publications on job boards, marketplaces, employment platforms, and new work models.",
+    "description": "FIRST DRAFT: Job Re:Search is a bilingual working paper serving as the foundation for further research and publications on job boards, marketplaces, employment platforms, and new work models.",
     "creators": [
       {
         "name": "Detlef Burkhardt",
@@ -12,6 +12,7 @@
     "access_right": "open",
     "license": "CC-BY-4.0",
     "keywords": ["OpenResearch", "JobResearch", "Work", "Employment", "LeanPub", "Zenodo"],
+    "version": "0.1.4",
     "language": "eng",
     "related_identifiers": [],
     "communities": [
