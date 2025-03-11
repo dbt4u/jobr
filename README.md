@@ -5,12 +5,12 @@
 
 ## 🇩🇪  
 
-**Job.Re:Search** ist ein zweisprachiges Working Paper, das als Grundlage für die weiterführenden Veröffentlichungen dient und auf Zenodo/CERN veröffentlicht wird. Jede Version erhält eine eigene DOI, zusätzlich gibt es eine übergreifende Concept-DOI über alle Releases.
+**Job Re:Sume - Working Paper** ist eine zweisprachige Arbeit, die als Grundlage für die weiterführenden Veröffentlichungen dienen soll und auf Zenodo/CERN veröffentlicht wird. Jede Version erhält eine eigene DOI, zusätzlich gibt es eine übergreifende Concept-DOI über alle Releases.
 
-**Job.Re:Sume** ist das darauf aufbauende Buchprojekt und wird als zwei separate Leanpub-Publikationen erscheinen:
+**Job Re:Sume ...** ist das darauf aufbauende Buchprojekt und wird als zwei separate Leanpub-Publikationen erscheinen:
 
-- Job.Re:Sume – Arbeit neu gedacht. (Deutsch)
-- Job.Re:Sume – Empower Work with Purpose. (English)
+- Job Re:Sume – Arbeit neu gedacht. (Deutsch)
+- Job Re:Sume – Empower Work with Purpose. (English)
 
 ### Versionsschema (SemVer-Kadenz)
 
@@ -38,12 +38,12 @@ Ziel: Forschung & Praxis verbinden – flexibel, offen, nachvollziehbar und skal
 
 ## 🇬🇧🇺🇳🇺🇸  
 
-**Job.Re:Search** is a bilingual working paper that serves as the foundation for further publications and is published on Zenodo/CERN. Each version receives its own DOI, along with an overarching Concept-DOI across all releases.
+**Job Re:Sume - Working Paper** is a bilingual working paper that serves as the foundation for further publications and is published on Zenodo/CERN. Each version receives its own DOI, along with an overarching Concept-DOI across all releases.
 
-**Job.Re:Sume** is the resulting book project and will be published as two separate Leanpub editions:
+**Job.Re:Sume - Sub[deu] | Sub[eng]** is the resulting book project and will be published as two separate Leanpub editions:
 
-- Job.Re:Sume – Arbeit neu gedacht. (German)
-- Job.Re:Sume – Empower Work with Purpose. (English)
+- Job Re:Sume – Arbeit neu gedacht. (German/deu)
+- Job Re:Sume – Empower Work with Purpose. (English/eng)
 
 ### Versioning Scheme (SemVer Cadence)
 
