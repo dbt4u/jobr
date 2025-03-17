@@ -1,8 +1,8 @@
 {
-    "title": "Job Re:Sume Working Paper",
+    "title": "Job Re:Sume - Working Paper",
     "upload_type": "publication",
     "publication_type": "workingpaper",
-    "description": "FIRST DRAFT: Job Re:Sume is a bilingual working paper serving as the foundation for further research and publications on job boards, marketplaces, employment platforms, and new work models.",
+    "description": "Job Re:Sume is a bilingual working paper serving as the foundation for further research and publications on job boards, marketplaces, employment platforms, and new work models.",
     "creators": [
       {
         "name": "Detlef Burkhardt",
@@ -12,7 +12,7 @@
     "access_right": "open",
     "license": "CC-BY-4.0",
     "keywords": ["OpenResearch", "JobResume", "Work", "Employment", "LeanPub", "Zenodo"],
-    "version": "0.1.5",
+    "version": "0.2.2",
     "language": "eng",
     "related_identifiers": [],
     "communities": [
